@@ -15,9 +15,9 @@
 <p>Favourite TV series:Narcos</P>
 <img src ="narcos.jpg">
 <p>Favourite place to visit:Bandarban(Nilgiri,Chimbuk hill,Sangu river)</p>
-<img src ="nilgiri.jpg">
-<img src ="chimbuk.jpg">
-<img src ="sangu.jpg">
+<p><img src ="nilgiri.jpg"></p>
+<p><img src ="chimbuk.jpg"></p>
+<p><img src ="sangu.jpg"></p>
 <a href="https://index.html">Go back to page 1</a>
 </body>
 </html>
